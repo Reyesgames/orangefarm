@@ -1,0 +1,133 @@
+{
+	"en": {
+		"GAME_OVER.HEADER": "AWW. DANG!",
+		"GAME_OVER.CTA": "TRY AGAIN?",
+		
+		"LEVEL_COMPLETED.H1": "HARVEST SUCCESSFUL",
+		"LEVEL_COMPLETED.H2": "GOOD JOB!",
+		
+		"HARVEST.LEVEL": "LEVEL __i__",		
+		"GARDEN.LEVEL": "LEVEL $(level)",
+		"BALANCE": "$(balance)",
+		
+		"MENU_BTN": "MENU",
+		"SHOP_BTN": "SHOP",
+		"HARVEST_BTN": "HARVEST",
+		"HARVEST_BTN_TUTORIAL": "PRESS TO HARVEST",
+		
+		"T1": "POP BUBBLES BY MATCHING 3 OR MORE OF THE SAME COLOR",
+		"T2": "COMPLETE THE HARVEST BY REMOVING ALL BUBBLES SURROUNDING THE ORANGE",
+		"T3": "DON'T LET THE BUBBLES REACH THE RED LINE!",
+		
+		"SHOP": "SHOP",
+		
+		"SHOP.TUTORIAL.ENTER": "ENTER THE SHOP",
+		"SHOP.TUTORIAL.VIEW_TREES": "VIEW ORANGE TREES",
+		"SHOP.TUTORIAL.BUY": "BUY",
+		
+		"SHOP.INFO": "INFO",
+		"SHOP.BUY": "BUY",
+		"SHOP.PRICE": "Price:",
+		"SHOP_DETAILS.CLOSE": "CLOSE",
+		"SHOP.BACK": "BACK",
+		
+		"SHOP-TREES.DISP_NAME": "Orange Trees",
+		"SHOP-SALES.DISP_NAME": "Sales",
+		"SHOP-PROCESSING.DISP_NAME": "Processing",
+		"SHOP-BALANCE": "Balance $(balance)",
+		
+		"STAND.DISP_NAME": "Used Stand",
+		"STAND.DESC": "Second hand bargain! Looks a little worn and isn't much of a customer magnet, but kind of gets the job done.",
+		"STAND2.DISP_NAME": "Basic Stand",
+		"STAND2.DESC": "Fresh and sturdy roadside stand. Looks attractive and gives a sense of quality to everything you sell.",
+		"STAND3.DISP_NAME": "Exclusive Designer Stand",
+		"STAND3.DESC": "Extreme quality. Beautiful design. Will attract quite a crowd and allows you to charge premium prices.",
+		
+		"OTREE.DISP_NAME": "Small Orange Tree",
+		"OTREE.DESC": "Small and cheap orange tree. Yields one orange per harvest.",
+		"OTREE2.DISP_NAME": "Medium Orange Tree",
+		"OTREE2.DESC": "Medium size orange tree. Yields two oranges per harvest.",
+		"OTREE3.DISP_NAME": "High Yield Orange Tree",
+		"OTREE3.DESC": "This tree variety has been bred for increased crop sizes. Yields three oranges per harvest.",
+		"OTREE4.DISP_NAME": "Extreme Yield Orange Tree",
+		"OTREE4.DESC": "This rare, extreme yield breed with origins in Brazil yields four oranges per harvest.",
+		
+		"JUICER.DISP_NAME": "Juice maker mini",
+		"JUICER.DESC": "Juice maker for small scale and home use. Produces one bottle of juice out of 2 oranges.",
+		"JUICER2.DISP_NAME": "Industrial Juice Maker",
+		"JUICER2.DESC": "Produce juice at scale! Quick turnaround, handles large bursts of fruits. Produces one bottle of juice out of 2 oranges.",
+		
+		"ICECREAMMAKER.DISP_NAME": "Ice Cream Maker",
+		"ICECREAMMAKER.DESC": "For small vendors just starting out. Produces one ice cream out of one bottle of juice.",
+		"ICECREAMMAKER2.DISP_NAME": "Industrial Ice Cream Maker",
+		"ICECREAMMAKER2.DESC": "Heavy duty ice cream maker. Produces one ice cream out of one bottle of juice.",
+		
+		"BOOSTERSHOP.HEADER": "BOOSTER SHOP",
+		"BOOSTERSHOP.aim.DISP_NAME": "AIM-AID",
+		"BOOSTERSHOP.match_any.DISP_NAME": "WILDCARD",
+		"BOOSTERSHOP.BALANCE": "Balance $(balance)",
+		"BOOSTERSHOP.BUY": "BUY",
+		
+		"ITEM_DETAILS.MOVE": "MOVE",
+		"ITEM_DETAILS.RECYCLE": "RECYCLE",
+		"ITEM_DETAILS.CLOSE": "CLOSE",
+		
+		"MOVE.OVERLAP": "MAKE SURE IT IS NOT OVERLAPPING OTHER OBJECTS",
+		"MOVE.CANCEL": "CANCEL",
+		"MOVE.DONE": "DONE",
+		"MOVE.TUTORIAL": "HOLD AND DRAG TO MOVE",
+		
+		"CANNOT_RECYCLE.HEADER": "CANNOT RECYCLE",
+		"CANNOT_RECYCLE.TREE": "You need at least one orange tree.",
+		"CANNOT_RECYCLE.STAND": "You need at least one sales stand.",
+		
+		"OPTIONS.HEADER": "OPTIONS",
+		"OPTIONS.SOUND": "SOUND:",
+		"OPTIONS.RESET": "RESET SAVE:",
+		"OPTIONS.RESET.BUTTON": "RESET",
+		"OPTIONS.RESET.CONFIRM.HEADER": "WARNING",
+		"OPTIONS.RESET.CONFIRM": "All progress will be lost. Are you sure?",
+		"OPTIONS.RESET.CONFIRM.YES": "YES.",
+		"OPTIONS.RESET.CONFIRM.NO": "NO!",
+		
+		"CREDITS.TEXT": "Orange Farm",
+		"CREDITS.STO_URL": "-",
+		"CREDITS.NOTICE": "Harvest Oranges",
+			
+		"MESSAGE.WELCOME.HEADER": "WELCOME",
+		"MESSAGE.WELCOME.TEXT": "This is your garden. Your very own orange ranch!\r\n\r\nWhy don't you get started by picking some oranges?",
+		
+		"MESSAGE.SHOP.HEADER": "BEATIFUL",
+		"MESSAGE.SHOP.TEXT": "Looks like you were born to pick oranges.\r\n\r\nLets add more trees, it will get you more oranges per harvest!",
+		
+		"MESSAGE.BOOSTERS.HEADER": "NEW TOOL",
+		"MESSAGE.BOOSTERS.TEXT": "We loaded up a couple of AIM-AID boosters to help you with those near impossible shots.\r\n\r\nYou will find them by pressing the button with the lightning flash!",
+		
+		"MESSAGE.JUICER.HEADER": "NOW IN THE SHOP",
+		"MESSAGE.JUICER.TEXT": "The Juice Maker Mini is now available in the shop.\r\n\r\nSweet, refreshing and locally produced juice\r\n- your customers will love it!",
+		
+		"MESSAGE.ICECREAMMAKER.HEADER": "NOW IN THE SHOP",
+		"MESSAGE.ICECREAMMAKER.TEXT": "There is nothing like fresh ice cream on a hot summer day!\r\n\r\nThe Ice Cream Maker is now available in the shop.",
+		
+		"MESSAGE.MATCHANY.HEADER": "NEW TOOL",
+		"MESSAGE.MATCHANY.TEXT": "Hey, I had some WILDCARD boosters lying around. They make your bubble match any color.\r\n\r\nFind them by pressing the button with the lightning flash!",
+		
+		"MESSAGE.BOOSTERSHOP.HEADER": "GET MORE BOOSTERS",
+		"MESSAGE.BOOSTERSHOP.TEXT": "Make sure you always have a few boosters ready in case you need them.\r\n\r\nYou can stock up in the newly opened Booster Shop!",
+		
+		"MESSAGE.JUICER2.HEADER": "INDUSTRIAL SCALE",
+		"MESSAGE.JUICER2.TEXT": "Ready to get serious with your juice and ice cream production?\r\n\r\nYou can now find industrial grade processing equipment in the shop.",
+		
+		"MESSAGE.OTREE4.HEADER": "NOW IN THE SHOP",
+		"MESSAGE.OTREE4.TEXT": "Get even more oranges from every harvest!\r\n\r\nThe Extreme Yield Orange Tree is now available in the shop.",
+		
+		"MESSAGE.STAND3.HEADER": "NOW IN THE SHOP",
+		"MESSAGE.STAND3.TEXT": "Increase the rate of sales and get more for your produce with an exclusive designer stand.",
+		
+		"MESSAGE.GIFT_AIM.HEADER": "GIFT",
+		"MESSAGE.GIFT_AIM.TEXT": "Maybe you have use for another AIM-AID booster?\r\n\r\nEnjoy!",
+		
+		"MESSAGE.GIFT_MATCHANY.HEADER": "GIFT",
+		"MESSAGE.GIFT_MATCHANY.TEXT": "Hey,\r\nI thought you might like to have another\r\nWILDCARD booster, so here you go!"
+	}
+}
